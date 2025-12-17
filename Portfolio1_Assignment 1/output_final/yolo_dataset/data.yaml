@@ -1,0 +1,9 @@
+# Waterfowl Detection Dataset
+path: /Users/harshasathish/Desktop/MAI/ComputerVision/Portfolio1_new/output/yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+nc: 1
+names: ['waterfowl']
